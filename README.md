@@ -1,2 +1,2 @@
 # bennataraj.github.io
- This is my portfolio site.
+ Portfolio site that utlizes Masonry.js for responsive layout
