@@ -1512,10 +1512,10 @@ height: 75px;
 padding: 5px;
 background: #fff;
 }
-p.about {
+.about p {
 color: #666;	
 }
-h2.about{
+.about h2{
 color: #7a9a95;
 }
 
