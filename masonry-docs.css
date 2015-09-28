@@ -137,7 +137,10 @@ h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
-
+h3
+{
+	text-align: center;
+}
 /**
  * Address styling not present in IE 8/9.
  */
