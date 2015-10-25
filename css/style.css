@@ -1,0 +1,220 @@
+
+#logo{
+float: left;
+margin: 0px;
+width: auto;
+font-size: 12px;
+line-height: 0;
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+}
+.top-bg-gradient-overlay
+{
+position: absolute;
+top: 0px;
+left: 0px;
+z-index: 1;
+width: 100%;
+height: 100%;
+background: transparent linear-gradient(to bottom, rgba(0, 0, 0, 0.95) 0%, transparent 100%) repeat scroll 0% 0%;
+}
+.gametionary{
+	border: medium none;
+    min-height: 70px !important;
+    background: rgba(255, 255, 255, 0.4) none repeat scroll 0% 0%;
+    transition: background 0.3s ease 0s;
+}
+.content-wrap{
+max-width: 1400px;
+margin: 0px auto;
+background: #FFF none repeat scroll 0% 0%;
+padding: 0.1px;
+overflow: hidden;
+}
+.banner{
+
+	padding-top: 70px;
+}
+.banner{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 100%;
+height: 100%;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: 50% 0px;
+}
+.banner-top{
+position: relative;
+height: 450px;
+overflow: hidden;
+}
+
+}
+.info{
+position: relative;
+display: table;
+table-layout: fixed;
+width: 100%;
+height: 100%;
+margin: 0px auto;
+}
+
+.image{
+	height: 450px;
+	background-image: url("../images/bioshock-bg.png");
+	position: absolute;
+	width: 100%;
+
+}
+.rating{
+	margin-left: 40px;
+	
+}
+.game-info{
+	margin:-350px 0 0 0;
+}
+.title-details {
+	
+	
+}
+.title-details h1{
+	font-weight: bolder;
+	margin: 25px 0 0 25px;
+	font-size: 220%;
+	color: #ff6600;
+	padding: 15px;
+	background: #444;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+.details {
+	position: absolute;
+	padding: 10px;
+	margin: 40px 0 0 5%;
+	float: left;
+	width: 50%;
+}
+.right-details{
+	margin-top: 25px;
+	width: 50%;
+	float: right;
+}
+.mid-banner{
+	position: absolute;
+	padding: 0 0 0 40px;
+	margin: 0;
+	border-top:2px solid #ccc;
+	background: #f2f2f2;
+}
+.about{
+	width: 25%;
+	float: left;
+	margin: 0 25px 0 60px;
+}
+.about p{
+	font-size: 85%;
+	color: 666;
+}
+.middle{
+	width: 25%;
+	float: left;
+	margin: 15px 0 0 20px;
+	padding: 10px;
+	
+}
+.right-middle-row{
+	width: 35%;
+	float: right;
+}
+.where-to-buy{
+	background: #333;
+	color: #f2f2f2;
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+.where-to-buy h3{
+	color: #ff6600;
+	margin-top: 0;
+}
+.where-to-buy img{
+	height: 60px;
+	width: 60px;
+	margin: 5px;
+}
+.reviews{
+
+
+}
+.review-box{
+	background: #fff;
+	padding: 2px 5px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin: 2px 0;
+}
+.review-box h5{
+	font-size: 95%;
+	color: blue;
+	margin: 2px;
+}
+.review-box p{
+	font-size: 80%;
+	padding: 4px 6px;
+}
+.boxart{
+	width: 100%;
+}
+.boxart img{
+ max-height: 450px;
+ max-width: 350px;
+}
+.meta-details {
+	color: #222;
+	padding: 10px;
+	margin: 10px 0 0 5%;
+	float: right;
+	width: 45%;
+	border: 1px solid #fff;
+}
+.meta-details h1{
+	font-weight: bolder;
+	margin-top: 0;
+	font-size: 220%;
+	color: #777;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #fff;
+
+}
+.small-table{
+	max-width: 50px !important;
+	margin-left: 25px;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    border-top: none !important;
+}
+.bolder{
+	font-weight: bolder;
+}
+.shadow {
+   -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+.green{
+	background: green !important;
+	border: 1px solid #888;
+}
+.date
+{
+	font-size: 70%;
+	line-height: 7px;
+	padding: 0 0 0 30px;
+}
+.orange{
+	color: #ff6600;
+}
