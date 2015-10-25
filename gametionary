@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Gametionary</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+	<header>
+		
+	<nav class="gametionary navbar navbar-default navbar-fixed-top">		
+			
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="off-canvas" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+        	<img src="images/logo.png">
+        </a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown dropdown-hover ">
+            <a href="#!" class="dropdown-toggle" role="button" aria-expanded="false">
+                      Store 
+                    </a>
+            <div class="dropdown-menu" style="width: 320px;">
+              <ul role="menu">
+                <li><a href="store-1.html">Store Style 1</a>
+                </li>
+                <li><a href="store-2.html">Store Style 2</a>
+                </li>
+                <li><a href="cart.html">Cart</a>
+                </li>
+              </ul>
+              <!--
+                        -->
+              <ul role="menu">
+                <li><a href="store-product-1.html">Product Style 1</a>
+                </li>
+                <li><a href="store-product-2.html">Product Style 2</a>
+                </li>
+                <li><a href="checkout.html">Checkout</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="dropdown dropdown-hover ">
+            <a href="#!" class="dropdown-toggle" role="button" aria-expanded="false">
+                      About
+                    </a>
+            <div class="dropdown-menu" style="width: 320px;">
+              <ul role="menu">
+                <li><a href="blog-1.html">Blog Style 1</a>
+                </li>
+                <li><a href="blog-2.html">Blog Style 2</a>
+                </li>
+                <li><a href="blog-3.html">Blog Style 3</a>
+                </li>
+              </ul>
+              <!--
+                        -->
+              <ul role="menu">
+                <li><a href="blog-post-1.html">Blog Post 1</a>
+                </li>
+                <li><a href="blog-post-2.html">Blog Post 2</a>
+                </li>
+                <li><a href="blog-post-3.html">Blog Post 3</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="dropdown dropdown-hover ">
+            <a href="#!" class="dropdown-toggle" role="button" aria-expanded="false">
+                     Contact 
+                    </a>
+            <div class="dropdown-menu" style="width: 320px;">
+              <ul role="menu">
+                <li><a href="components.html">Components</a>
+                </li>
+                <li><a href="user-profile.html">User Profile</a>
+                </li>
+                <li><a href="forums.html">Forums</a>
+                </li>
+                <li><a href="forums-topics.html">Forums Topics</a>
+                </li>
+                <li><a href="forums-single-topic.html">Single Topic</a>
+                </li>
+              </ul>
+              <!--
+                        -->
+              <ul role="menu">
+                <li><a href="coming-soon.html">Coming Soon</a>
+                </li>
+                <li><a href="contact.html">Contact Us</a>
+                </li>
+                <li><a href="search.html">Search</a>
+                </li>
+                <li><a href="login.html">Login</a>
+                </li>
+                <li><a href="404.html">404</a>
+                </li>
+                <li><a href="blank.html">Blank</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown dropdown-hover ">
+            <a href="#!" class="dropdown-toggle" role="button" aria-expanded="false">
+                      Joe Bloggs <span class="badge bg-default">2</span> <span class="caret"></span> 
+                    </a>
+            <div class="dropdown-menu">
+              <ul role="menu">
+                <li><a href="../documentation">Documentation</a>
+                </li>
+                <li><a href="http://themeforest.net/item/youplay-game-template-based-on-bootstrap/11306207?ref=_nK">Purchase</a>
+                </li>
+                <li class="divider"></li>
+
+                <li><a href="user-profile.html">Profile <span class="badge pull-right bg-warning">13</span></a>
+                </li>
+                <li><a href="cart.html">My Cart <span class="badge pull-right bg-default">3</span></a>
+                </li>
+                <li class="divider"></li>
+
+                <li><a href="login.html">Log Out</a>
+                </li>
+                <li class="dropdown-submenu pull-left">
+                  <a href="#!">More..</a>
+                  <div class="dropdown-menu">
+                    <ul role="menu">
+                      <li><a href="#!">3rd level</a>
+                      </li>
+                      <li><a href="#!">3rd level</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </li>
+          
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+	
+	
+	</header>
+	<section class="banner banner-top">
+		      <div class="image">
+		      		<div class="details">
+			      		<div class="title-details">
+				           <h1>Bioshock Infinite</h1>
+				            <table class="table small-table">
+		    
+							    <tbody>
+							      <tr class="small-table">
+							        <td class="bolder">Publisher</td>
+							        <td><span class="label label-default">2K Games</span></td>
+							      </tr>
+							      <tr>
+							        <td  class="bolder">Developer</td>
+							        <td><span class="label label-default">Irriational Games</span></td>
+							      </tr>
+							      <tr>
+							        <td  class="bolder">Age</td>
+							        <td><span class="label label-default">15+</span></td>
+							      </tr>
+							    </tbody>
+							 </table>
+							<div class="rating">
+								<i class="orange fa fa-star fa-3x"></i>
+								<i class="orange fa fa-star fa-3x"></i>
+								<i class="orange fa fa-star fa-3x"></i>
+								<i class="orange fa fa-star fa-3x"></i>
+								<i class="orange fa fa-star fa-3x"></i>
+
+							</div>
+				        </div>
+			        </div>
+			        <div class="right-details">
+			        	<iframe width="500" height="275" src="https://www.youtube.com/embed/RvrnUcB8ZJc" frameborder="0" allowfullscreen></iframe>
+			        </div>
+		      	</div>
+
+    </section>
+    <section class="mid-banner">
+    	<div class="about">
+
+       	 <h3>Summary</h3>
+       	 <p>Welcome to the city of Columbia. Floating amongst the clouds, cruising far above sea level,this is a place unlike any you've ever seen. Please enjoy your voyage...The third game in the popular Bioshock series, BioShock Infinite breaks away from the underwater setting of the first two games to take players into a floating city held aloft by dirigibles. The game is set in 1912. You play as Booker DeWitt, a disgraced former private detective who's picked up a new case. Your goal is to find Elizabeth, a young woman who's gone missing and return her unharmed.</p>
+
+		<p>The only problem is that she's being kept on this flying city. Columbia was once a symbol of America's success as a nation, floating around the world as a traveling World's Fair, a marvel of human innovation. But strange things have happened since Columbia's unveiling in 1900, and now the city has disappeared into the clouds.</p>
+
+		<p>DeWitt knows how to find it, but over the years stories have been told about Columbia having unlawful heavy armament and deranged citizenry. Do not expect this to be a pleasure cruise.</p>
+       </div> 
+       <div class="middle">
+      		<div class="where-to-buy shadow">
+	       		<h3>Where to Buy</h3>
+	       		 
+	            <a href="http://store.steampowered.com/agecheck/app/8870/" target="_blank">
+	                <img alt="Icon steam" src="images/steam.png"></a>            
+	                <a href="https://store.playstation.com/#!/en-us/games/bioshock-infinite/cid=UP1001-NPUB31128_00-BSIPSNEFIGSPSCEA" target="_blank">
+	                <img alt="Icon ps" src="images/ps.png"></a>
+	            <a href="http://marketplace.xbox.com/en-IE/Product/BioShock-Infinite/66acd000-77fe-1000-9115-d8025454085d" target="_blank">
+	                <img alt="Icon xbox" src="images/xbox.png"></a>
+	        
+
+	       </div>
+	        <div class="reviews">
+	       		<h3>Reviews</h3>
+		       		<div class="review-box">
+		       			 <h5><span class="badge green">9</span> Rusty_Gate87 </h5>
+			       			<p class="date">19 September 2015</p>
+			       		 <p>Absolutely fantastic game. Right at the top with the great games of our generation Dishonored and Skyrim. I'm playing on a high end PC so I will not bang on about the graphics as of course they are amazing but of course they would be when they utilise every pounds worth. Great story, simple but effective controls, personable characters, great scenery, great soundtrack...nuff said. Miss this miss out bigstyle</p>
+		           </div>
+		           <div class="review-box">
+		       			 <h5><span class="badge green">9</span> Rusty_Gate87 </h5>
+			       			<p class="date">19 September 2015</p>
+			       		 <p>Absolutely fantastic game. Right at the top with the great games of our generation Dishonored and Skyrim. I'm playing on a high end PC so I will not bang on about the graphics as of course they are amazing but of course they would be when they utilise every pounds worth. Great story, simple but effective controls, personable characters, great scenery, great soundtrack...nuff said. Miss this miss out bigstyle</p>
+		           </div>
+	        </div>
+	        
+   		</div>
+   		<div class="right-middle-row">
+   				<div class="boxart">
+		       		<h3>Art & Images</h3>
+		   			<img alt="Box Art" src="images/boxart.jpg">           
+	          	</div>
+   		</div>
+   
+     
+    </section>
+   
+
+
+</body>
+
+</html>
